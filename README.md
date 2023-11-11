@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Akhilesh-0529
 - 👀 I’m interested in AI and ML
-- 🌱 I’m currently learning java , Java Script
+- 🌱 I’m currently learning pyhton...
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me akhileshyerram2006@gmail.com
 
