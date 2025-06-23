@@ -34,6 +34,12 @@ Even though I started without strong coding skills, I’ve grown by building rea
 - VS Code, Jupyter Notebooks
 - Google Sheets, Forms
 - Canva, Notion (for documentation)
+- **Selenium** – Browser automation and testing
+- **Shell Scripting** – Automating OS-level tasks (basic level)
+- **Matplotlib** / **Seaborn** – For data visualization and insights
+- **Trello / Jira** – Task tracking and collaboration (basic)
+- **Postman** – API testing and integration
+
 
 ---
 
@@ -58,24 +64,16 @@ Even though I started without strong coding skills, I’ve grown by building rea
 ---
 
 ## 🌏 Recent Activities
-- Participated in **METI Japan Internship Program AI & IT Contest (2025)**
-- Working on building a **portfolio of automation + AI tools**
 - Learning **deployment of AI models and scripts in real-world systems**
 
 ---
 
 ## 🎯 Career Aspiration
 
-I aspire to become an **AI Automation Engineer**, building smart systems that bridge real-world tasks with intelligent software — even for non-developers.
+I aspire to become an **AI Automation Engineer**, building smart systems that bridge real-world tasks with intelligent software
 
 ---
 
 ## 📫 Let’s Connect!
-- 🌐 [LinkedIn](https://www.linkedin.com/) (Add your profile link here)
-- 💌 akhileshyerram@example.com *(use your actual email)*
-
----
-
-> 🚧 *"Not a coder? No problem. I'm learning to build the future, one smart system at a time."*
-
---->
+- 💌 akhileshyerram2006@example.com
+- > 🧠 Always exploring new tools to build smarter workflows!
