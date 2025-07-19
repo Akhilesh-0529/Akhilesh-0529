@@ -1,7 +1,6 @@
 # 👋 Hi, I'm Akhilesh Yerram
 
-🎓 2nd Year Student | 💡 Automation Enthusiast | 🇯🇵 METI Japan Internship Contest Participant (AI & IT)
-
+🎓 2nd Year Student | 💡 Automation Enthusiast 
 ---
 
 ## 🚀 About Me
